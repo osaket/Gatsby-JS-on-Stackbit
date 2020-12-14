@@ -28,9 +28,9 @@ sections:
       - title: Thorough Examination
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We perform a thorough assessment that identifies your underlying
+          cause, we then treat your injury at its very roots to get you back to
+          doing the things you love to do.
         content_align: left
         actions:
           - label: Learn More
