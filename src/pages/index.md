@@ -67,9 +67,9 @@ sections:
       - title: Section Item 3
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Our exercise prescriptions and advice are fully accessible over your
+          computer, tablet or phone to ensure you can access the services at
+          your convenience.
         content_align: left
         actions:
           - label: Learn More
