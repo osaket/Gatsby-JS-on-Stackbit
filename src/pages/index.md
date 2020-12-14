@@ -132,7 +132,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: ''
         content: >-
           The choice of physiotherapy treatment will be determined by the
           specific condition identified. We will then provide you with a
