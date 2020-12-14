@@ -95,7 +95,7 @@ sections:
       We’ve designed a simple, efficient and effective way to conduct our
       physiotherapy sessions.
     features:
-      - title: We do things different.
+      - title: 01. Assessment
         subtitle: >-
           We’ve designed a simple, efficient and effective way to conduct our
           physiotherapy sessions. Here’s how it works.
