@@ -111,7 +111,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/_physio_ax.png
+        image: images/Massage therapist-amico.png
         media_position: right
         media_width: fifty
       - title: 02. Connecting the dots
