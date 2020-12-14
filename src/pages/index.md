@@ -131,7 +131,7 @@ sections:
         image: images/Problem_solving-pana.png
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: 03 Exe
         subtitle: ''
         content: >-
           The choice of physiotherapy treatment will be determined by the
