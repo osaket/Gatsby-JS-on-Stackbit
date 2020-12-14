@@ -23,7 +23,7 @@ sections:
     background_color: secondary
   - type: features_section
     title: 'Our principle is simple, we treat your injuries at their root cause'
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
