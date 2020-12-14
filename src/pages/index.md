@@ -114,7 +114,7 @@ sections:
         image: images/_physio_ax.png
         media_position: right
         media_width: fifty
-      - title: 02 Connecting the dots
+      - title: 02. Connecting the dots
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
