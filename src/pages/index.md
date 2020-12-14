@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: features_section
-    title: We
+    title: 'Our principle is simple, we treat your injuries at their root cause'
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
