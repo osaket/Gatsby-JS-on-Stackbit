@@ -14,7 +14,7 @@ sections:
       - label: Why Choose Us?
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/physio_pose.png
     media_position: left
     media_width: fifty
     align: left
