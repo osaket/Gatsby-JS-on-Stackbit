@@ -159,8 +159,7 @@ sections:
     grid_items:
       - image: images/medibank.png
         image_align: center
-      - image: images/best-iron.png
-        image_align: center
+      - image_align: center
       - image: images/logo-3.svg
         image_align: center
       - image: images/logo-4.svg
