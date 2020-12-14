@@ -157,7 +157,7 @@ sections:
     subtitle: We accept most payment providers and referrals
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/medibank.png
         image_align: center
       - image: images/logo-2.svg
         image_align: center
