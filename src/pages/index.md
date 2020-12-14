@@ -154,7 +154,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: ''
-    subtitle: Grid Section Example
+    subtitle: We accept most payment providers
     align: center
     grid_items:
       - image: images/logo-1.svg
