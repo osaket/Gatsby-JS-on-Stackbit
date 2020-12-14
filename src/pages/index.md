@@ -172,7 +172,7 @@ sections:
     title: Book your consultation today!
     content: ''
     actions:
-      - label: Button
+      - label: Book Online
         url: /pricing
         style: primary
     actions_position: bottom
