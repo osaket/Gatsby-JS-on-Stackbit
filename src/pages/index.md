@@ -9,7 +9,8 @@ sections:
       western suburbs of Brisbane.
     actions:
       - label: Book Online
-        url: /pricing
+        url: >-
+          https://healthengine.com.au/appointment/book_webplugin/75554/Physiotherapy/?trigger=button&source=webplugin
         style: primary
       - label: Why Choose Us?
         url: /features
