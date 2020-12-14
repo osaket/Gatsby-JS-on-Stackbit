@@ -25,7 +25,7 @@ sections:
     title: 'Our principle is simple, we treat your injuries at their root cause.'
     subtitle: Our approach to physiotherapy is different.
     grid_items:
-      - title: Section Item 1
+      - title: Thorough Examination
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
