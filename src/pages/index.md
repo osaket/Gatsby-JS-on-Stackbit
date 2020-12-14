@@ -64,7 +64,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Online Access
         title_align: left
         content: >-
           Our exercise prescriptions and advice are fully accessible over your
