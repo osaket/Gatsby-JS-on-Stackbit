@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Cards Grid Section
+    title: 'Our principle is simple, we treat your injuries at their root cause.'
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
