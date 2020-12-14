@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: We a
+    title: We are
     subtitle: Grid Section Example
     align: center
     grid_items:
