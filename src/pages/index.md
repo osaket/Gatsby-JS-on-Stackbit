@@ -142,7 +142,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-3.png
+        image: images/Pilates-amico.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
