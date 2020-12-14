@@ -94,7 +94,9 @@ sections:
     subtitle: ''
     features:
       - title: We do things different.
-        subtitle: ''
+        subtitle: >-
+          We’ve designed a simple, efficient and effective way to conduct our
+          physiotherapy sessions. Here’s how it works.
         content: >-
           Thorough Examination We perform a thorough assessment that identifies
           your underlying cause, we then treat your injury at its very roots to
