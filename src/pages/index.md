@@ -160,7 +160,7 @@ sections:
       - image: images/medibank.png
         image_align: center
       - image_align: center
-      - image: images/logo-3.svg
+      - image: images/bupa.png
         image_align: center
       - image: images/logo-4.svg
         image_align: center
