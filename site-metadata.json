@@ -133,7 +133,8 @@
                 "url": "https://www.stackbit.com",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "images/VENTELITE.png"
     },
     "title": "Stackbit DIY Theme"
 }
