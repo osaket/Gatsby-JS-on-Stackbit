@@ -3,7 +3,7 @@ title: Ventelite Physiotherapy Kenmore
 sections:
   - type: hero_section
     title: Ventelite Physiotherapy in Kenmore
-    subtitle: Optional hero section subtitle
+    subtitle: Get you back to doing the things you love.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
