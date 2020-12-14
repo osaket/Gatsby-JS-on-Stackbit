@@ -96,9 +96,7 @@ sections:
       to provide accurate impression/diagnosis.
     features:
       - title: 01. Assessment
-        subtitle: >-
-          We’ve designed a simple, efficient and effective way to conduct our
-          physiotherapy sessions. Here’s how it works.
+        subtitle: ''
         content: >-
           Thorough Examination We perform a thorough assessment that identifies
           your underlying cause, we then treat your injury at its very roots to
