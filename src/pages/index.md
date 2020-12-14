@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ventelite Physiotherapy Kenmore
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
