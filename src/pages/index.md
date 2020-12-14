@@ -48,9 +48,9 @@ sections:
       - title: Section Item 2
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We understand that every patient is different, therefore we aim to
+          create a tailored treatment program that fits your specific goals and
+          lifestyle.
         content_align: left
         actions:
           - label: Learn More
