@@ -1,125 +1,37 @@
 ---
-title: Home
+title: Ventelite Physiotherapy Kenmore
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
+    title: Ventelite Physiotherapy in Kenmore
+    subtitle: Get you back to doing the things you love.
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Our physiotherapy clinic is located in the heart of Kenmore, servicing the
+      western suburbs of Brisbane.
     actions:
-      - label: Try Free
-        url: /pricing
+      - label: Book Online
+        url: >-
+          https://healthengine.com.au/appointment/book_webplugin/75554/Physiotherapy/?trigger=button&source=webplugin
         style: primary
-      - label: Learn More
+      - label: Why Choose Us?
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/physio_pose.png
     media_position: left
     media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_align: center
-      - image: images/logo-2.svg
-        image_align: center
-      - image: images/logo-3.svg
-        image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-  - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
-    features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        media_position: right
-        media_width: fifty
-      - title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
-        media_position: left
-        media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
+    title: 'Our principle is simple, we treat your injuries at their root cause.'
+    subtitle: Our approach to physiotherapy is different.
     grid_items:
-      - title: Section Item 1
+      - title: Thorough Examination
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We perform a thorough assessment that identifies your underlying
+          cause, we then treat your injury at its very roots to get you back to
+          doing the things you love to do.
         content_align: left
         actions:
           - label: Learn More
@@ -129,16 +41,17 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/Radiography-pana.png
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+        subtitle: ''
+      - title: Tailored Treatment
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We understand that every patient is different, therefore we aim to
+          create a tailored treatment program that fits your specific goals and
+          lifestyle.
         content_align: left
         actions:
           - label: Learn More
@@ -148,16 +61,16 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: images/beige-strawberry.png
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Accessibility
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Our exercise prescriptions and advice are fully accessible over your
+          computer, tablet or phone to ensure you can access the services at
+          your convenience.
         content_align: left
         actions:
           - label: Learn More
@@ -167,7 +80,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: images/Fitness tracker-rafiki.png
         image_position: top
         image_align: left
         image_has_padding: true
@@ -177,53 +90,71 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
+  - type: features_section
+    title: How does our treatment work?​
+    subtitle: >-
+      We conduct a thorough examination to identify the area of pain or concern
+      to provide accurate impression/diagnosis.
+    features:
+      - title: 01. Assessment
+        subtitle: ''
+        content: >-
+          Thorough Examination We perform a thorough assessment that identifies
+          your underlying cause, we then treat your injury at its very roots to
+          get you back to doing the things you love to do.  Tailored Treatment
+          Program   We understand that every patient is different, therefore we
+          aim to create a tailored treatment program that fits your specific
+          goals and lifestyle.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/Massage therapist-amico.png
+        media_position: right
+        media_width: fifty
+      - title: 02. Connecting the dots
+        content: >-
+          An important component in Physiotherapy is understanding how injuries
+          occur, and linking symptoms with daily activities and habits. In your
+          session at Ventelite, we will explain what the the problem is, discuss
+          treatment options available, provide advice, education and referral as
+          needed.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/Problem_solving-pana.png
+        media_position: left
+        media_width: fifty
+      - title: 03. Treatment
+        subtitle: ''
+        content: >-
+          The choice of physiotherapy treatment will be determined by the
+          specific condition identified. We will then provide you with a
+          personalised exercise program to fast-track your recovery using a
+          mobile/desktop accessible app that will guide you through the
+          rehabilitation program.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/Stability-ball-rafiki.png
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Telehealth Now Available!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -238,66 +169,11 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    title: Book your consultation today!
+    content: ''
     actions:
-      - label: Button
+      - label: Book Online
         url: /pricing
         style: primary
     actions_position: bottom

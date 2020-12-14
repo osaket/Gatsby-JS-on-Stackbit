@@ -1,17 +1,17 @@
 {
-    "description": "A \"do it yourself\" theme for Stackbit",
+    "description": "Physiotherapy in Kenmore",
     "layout": "boxed",
     "style": "classic",
-    "palette": "green",
+    "palette": "blue",
     "mode": "light",
     "base_font": "serif",
     "header": {
         "title": "DIY",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/Copy_of_Copy_of_VENTELITE.png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
+                "label": "Why Choose Us?",
                 "url": "/features",
                 "style": "link"
             },
@@ -24,42 +24,31 @@
                 "label": "About",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
-                "url": "/contact",
+                "label": "Contact Us",
+                "url": "https://ventelitephysio.typeform.com/to/vzm3c17e",
                 "style": "link"
             },
             {
-                "label": "Get Started",
-                "url": "/pricing",
+                "label": "Book Online",
+                "url": "https://healthengine.com.au/appointment/book_webplugin/75554/Physiotherapy/?trigger=button&source=webplugin",
                 "style": "primary"
             }
         ],
-        "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "has_anncmnt": false,
+        "anncmnt_content": "",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/logo.svg",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Ventelite Physiotherapy Kenmore",
         "primary_nav_links": [
             {
                 "label": "About",
@@ -67,30 +56,14 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Online Booking",
                 "url": "/style-guide",
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
-        "secondary_nav_title": "Blog",
-        "secondary_nav_links": [
-            {
-                "label": "News",
-                "url": "/blog/category/news",
-                "style": "link"
-            },
-            {
-                "label": "General",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
-                "style": "link"
-            }
-        ],
+        "has_secondary_nav": false,
+        "secondary_nav_title": "",
+        "secondary_nav_links": [],
         "has_tertiary_nav": true,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
@@ -153,14 +126,15 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit-DIY. All rights reserved.",
+        "content": "Ventelite Physiotherapy Kenmore. All rights reserved.",
         "links": [
             {
-                "label": "Made with Stackbit.",
+                "label": "",
                 "url": "https://www.stackbit.com",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "images/Copy of Copy of VENTELITE 2.png"
     },
-    "title": "Stackbit DIY Theme"
+    "title": "Ventelite Physiotherapy Kenmore"
 }
