@@ -117,7 +117,7 @@ sections:
       - title: 02. Connecting the dots
         content: >-
           An important component in Physiotherapy is understanding how injuries
-          occur, and linking injuries with daily activities and habits. In your
+          occur, and linking symptoms with daily activities and habits. In your
           session at Ventelite, we will explain what the the problem is, discuss
           treatment options available, provide advice, education and referral as
           needed.
