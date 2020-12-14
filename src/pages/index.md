@@ -23,7 +23,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: 'Our principle is simple, we treat your injuries at their root cause.'
-    subtitle: Grid Section Example
+    subtitle: Our
     grid_items:
       - title: Section Item 1
         title_align: left
