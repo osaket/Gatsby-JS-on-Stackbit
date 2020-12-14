@@ -91,9 +91,7 @@ sections:
     background_color: none
   - type: features_section
     title: How does our treatment work?​
-    subtitle: >-
-      We’ve designed a simple, efficient and effective way to conduct our
-      physiotherapy sessions.
+    subtitle: ''
     features:
       - title: 01. Assessment
         subtitle: >-
