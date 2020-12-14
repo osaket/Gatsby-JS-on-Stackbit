@@ -173,7 +173,7 @@ sections:
     content: ''
     actions:
       - label: Book Online
-        url: 'https://physioinkenmore.com.au/#'
+        url: Online Bookings
         style: primary
     actions_position: bottom
     align: center
