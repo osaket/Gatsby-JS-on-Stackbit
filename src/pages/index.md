@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: features_section
-    title: Why Choose Us
+    title: We
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
