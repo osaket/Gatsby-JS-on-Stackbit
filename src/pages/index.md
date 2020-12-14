@@ -91,7 +91,9 @@ sections:
     background_color: none
   - type: features_section
     title: How does our treatment work?​
-    subtitle: ''
+    subtitle: >-
+      We conduct a thorough examination to identify the area of pain or concern
+      to provide accurate impression/diagnosis.
     features:
       - title: 01. Assessment
         subtitle: >-
