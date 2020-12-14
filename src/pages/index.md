@@ -11,7 +11,7 @@ sections:
       - label: Book Online
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Why Choose Us?
         url: /features
         style: secondary
     image: images/classic/hero.png
