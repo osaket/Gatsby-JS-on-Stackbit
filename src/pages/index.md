@@ -90,7 +90,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: 'Our principle is simple, we treat your injuries at their root cause'
+    title: How does our treatment work?​
     subtitle: ''
     features:
       - title: We do things different.
