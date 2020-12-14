@@ -45,7 +45,7 @@ sections:
         image_align: left
         image_has_padding: true
         subtitle: ''
-      - title: Tailored Treatment Program
+      - title: Tailored Treatment
         title_align: left
         content: >-
           We understand that every patient is different, therefore we aim to
