@@ -156,9 +156,8 @@ sections:
   - type: cta_section
     title: Telehealth Now Available!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Video based online consultations are now available, you can now access a
+      physiotherapist wherever you are, and at the convenience of your own home.
     actions:
       - label: Telehealth Bookings
         url: /features
