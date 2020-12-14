@@ -169,7 +169,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: cta_section
-    title: Book your initial consultation today!
+    title: Book your consultation today!
     content: ''
     actions:
       - label: Button
