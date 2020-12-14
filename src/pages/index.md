@@ -5,8 +5,8 @@ sections:
     title: Ventelite Physiotherapy in Kenmore
     subtitle: Get you back to doing the things you love.
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Our physiotherapy clinic is located in the heart of Kenmore, servicing the
+      western suburbs of Brisbane.
     actions:
       - label: Try Free
         url: /pricing
