@@ -93,7 +93,7 @@ sections:
     title: How does our treatment work?​
     subtitle: >-
       We’ve designed a simple, efficient and effective way to conduct our
-      physiotherapy sessions. Here’s how it works.
+      physiotherapy sessions.
     features:
       - title: We do things different.
         subtitle: >-
