@@ -82,30 +82,6 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: ''
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_align: center
-      - image: images/logo-2.svg
-        image_align: center
-      - image: images/logo-3.svg
-        image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-  - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
     grid_items:
@@ -172,6 +148,30 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: grid_section
+    title: ''
+    subtitle: Grid Section Example
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_align: center
+      - image: images/logo-2.svg
+        image_align: center
+      - image: images/logo-3.svg
+        image_align: center
+      - image: images/logo-4.svg
+        image_align: center
+      - image: images/logo-5.svg
+        image_align: center
+      - image: images/logo-6.svg
+        image_align: center
+      - image: images/logo-7.svg
+        image_align: center
+      - image: images/logo-8.svg
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: features_section
     features:
       - title: >-
