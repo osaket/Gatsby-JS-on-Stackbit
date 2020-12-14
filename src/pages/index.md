@@ -44,6 +44,10 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        subtitle: >-
+          We perform a thorough assessment that identifies your underlying
+          cause, we then treat your injury at its very roots to get you back to
+          doing the things you love to do.
       - title: Section Item 2
         title_align: left
         content: >-
