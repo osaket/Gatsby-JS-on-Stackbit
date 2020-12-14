@@ -152,28 +152,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: grid_section
-    title: ''
-    subtitle: We accept most payment providers and referrals
-    align: center
-    grid_items:
-      - image_align: center
-      - image_align: center
-      - image: images/bupa.png
-        image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     features:
       - title: >-
