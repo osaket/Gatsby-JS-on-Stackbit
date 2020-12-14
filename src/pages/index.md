@@ -154,7 +154,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: ''
-    subtitle: We accept most payment providers
+    subtitle: We accept most payment providers and referrals
     align: center
     grid_items:
       - image: images/logo-1.svg
