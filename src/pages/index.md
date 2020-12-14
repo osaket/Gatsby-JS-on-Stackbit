@@ -8,7 +8,8 @@ sections:
       Our physiotherapy clinic is located in the heart of Kenmore, servicing the
       western suburbs of Brisbane.
     actions:
-      - label: Book Online
+      - label: >-
+          https://healthengine.com.au/appointment/book_webplugin/75554/Physiotherapy/?trigger=button&source=webplugin
         url: /pricing
         style: primary
       - label: Why Choose Us?
