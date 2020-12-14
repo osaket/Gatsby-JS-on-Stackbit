@@ -9,13 +9,7 @@
         "title": "DIY",
         "logo": "images/Copy_of_Copy_of_VENTELITE.png",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Why Choose Us?",
-                "url": "/features",
-                "style": "link"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
