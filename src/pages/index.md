@@ -116,8 +116,11 @@ sections:
         media_width: fifty
       - title: 02. Connecting the dots
         content: >-
-          We will explain what the the problem is, discuss treatment options
-          available, provide advice, education and referral as needed.
+          An important component in Physiotherapy is understanding how injuries
+          occur, and linking injuries with daily activities and habits. In your
+          session at Ventelite, we will explain what the the problem is, discuss
+          treatment options available, provide advice, education and referral as
+          needed.
         actions:
           - label: Learn More
             url: /style-guide
