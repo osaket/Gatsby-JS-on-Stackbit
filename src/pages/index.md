@@ -21,66 +21,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - type: features_section
-    title: 'Our principle is simple, we treat your injuries at their root cause'
-    subtitle: ''
-    features:
-      - title: We do things different.
-        subtitle: >-
-          Thorough Examination We perform a thorough assessment that identifies
-          your underlying cause, we then treat your injury at its very roots to
-          get you back to doing the things you love to do.  Tailored Treatment
-          Program   We understand that every patient is different, therefore we
-          aim to create a tailored treatment program that fits your specific
-          goals and lifestyle.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/Group_1.png
-        media_position: right
-        media_width: fifty
-      - title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
-        media_position: left
-        media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
@@ -148,6 +88,66 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: features_section
+    title: 'Our principle is simple, we treat your injuries at their root cause'
+    subtitle: ''
+    features:
+      - title: We do things different.
+        subtitle: >-
+          Thorough Examination We perform a thorough assessment that identifies
+          your underlying cause, we then treat your injury at its very roots to
+          get you back to doing the things you love to do.  Tailored Treatment
+          Program   We understand that every patient is different, therefore we
+          aim to create a tailored treatment program that fits your specific
+          goals and lifestyle.
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/Group_1.png
+        media_position: right
+        media_width: fifty
+      - title: The Big Title For the Feature
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-2.png
+        media_position: left
+        media_width: fifty
+      - title: The Big Title For the Feature
+        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-3.png
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
+    align: center
+    background_color: secondary
   - type: grid_section
     title: ''
     subtitle: Grid Section Example
