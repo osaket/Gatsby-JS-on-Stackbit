@@ -96,9 +96,12 @@ sections:
       - title: We do things different.
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Thorough Examination We perform a thorough assessment that identifies
+          your underlying cause, we then treat your injury at its very roots to
+          get you back to doing the things you love to do.  Tailored Treatment
+          Program   We understand that every patient is different, therefore we
+          aim to create a tailored treatment program that fits your specific
+          goals and lifestyle.
         actions:
           - label: Learn More
             url: /style-guide
