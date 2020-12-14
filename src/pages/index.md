@@ -116,11 +116,8 @@ sections:
         media_width: fifty
       - title: 02. Connecting the dots
         content: >-
-          The choice of physiotherapy treatment will be determined by the
-          specific condition identified. We will then provide you with a
-          personalised exercise program to fast-track your recovery using a
-          mobile/desktop accessible app that will guide you through the
-          rehabilitation program.
+          We will explain what the the problem is, discuss treatment options
+          available, provide advice, education and referral as needed.
         actions:
           - label: Learn More
             url: /style-guide
