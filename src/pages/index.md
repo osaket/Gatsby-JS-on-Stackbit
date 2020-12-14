@@ -8,7 +8,7 @@ sections:
       Our physiotherapy clinic is located in the heart of Kenmore, servicing the
       western suburbs of Brisbane.
     actions:
-      - label: Try Free
+      - label: Book Online
         url: /pricing
         style: primary
       - label: Learn More
