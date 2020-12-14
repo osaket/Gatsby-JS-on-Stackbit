@@ -114,7 +114,7 @@ sections:
         image: images/_physio_ax.png
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: 02 Connecting the dots
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
